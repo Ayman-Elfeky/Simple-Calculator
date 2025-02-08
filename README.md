@@ -4,6 +4,9 @@
 
 A simple web-based calculator using **HTML, CSS, and JavaScript**. It supports both keyboard and mouse input, basic arithmetic operations, clear and backspace functions, and handles division by zero. The calculation history is stored in **localStorage**.
 
+## Live demo
+- https://simple-calculator-gamma-eight.vercel.app/
+
 ## Features
 - Supports **keyboard and mouse input**
 - Basic arithmetic operations (`+`, `-`, `*`, `/`)
